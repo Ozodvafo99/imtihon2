@@ -1,0 +1,1265 @@
+@media (max-width: 992px) {
+  .wrapper {
+    position: relative;
+    overflow: hidden;
+  }
+  .container {
+    max-width: 934px;
+    padding: 0;
+  }
+  .site_header .navbar {
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  .site_header .navbar .site_header_logo {
+    width: 89px;
+    height: 45px;
+  }
+  .site_header .navbar .site_header_item_list .site_header_list_link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .site_header .navbar .header_label .header_input {
+    display: none;
+  }
+  .site_header .navbar .header_label .fa-bars {
+    display: none;
+  }
+  .site_header .navbar .site_header_link_link {
+    padding: 11px 40px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+  }
+  .learn {
+    padding-top: 88px;
+    padding-bottom: 72px;
+  }
+  .learn .learn_box .learn_title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    margin-bottom: 27px;
+  }
+  .learn .learn_box .learn_box_img {
+    right: 80px;
+  }
+  .learn .learn_box .learn_text {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    max-width: 338px;
+    margin-bottom: 33px;
+    margin-top: 0;
+  }
+  .learn .learn_box .learn_link {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    padding: 22px 78px;
+  }
+  .learn .learn_img {
+    width: 460px;
+    height: 460px;
+  }
+  .skills .skills_title {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 80px;
+  }
+  .skills .skills_box {
+    padding-bottom: 106px;
+  }
+  .skills .skills_box .skills_box_big {
+    width: 303px;
+    padding-top: 0px;
+    padding-left: 28px;
+    padding-right: 21px;
+    padding-bottom: 52px;
+    margin-right: 13px;
+  }
+  .skills .skills_box .skills_box_big .skills_box_img {
+    width: 260px;
+    height: 260px;
+  }
+  .skills .skills_box .skills_box_big .skills_box_title {
+    font-size: 22px;
+  }
+  .skills .skills_box .skills_box_big .skills_box_text {
+    width: 262px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 80px;
+  }
+  .skills .skills_box .skills_box_big .skills_box_link {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 16px 41px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list {
+    width: 302px;
+    padding-top: 5px;
+    padding-left: 29px;
+    padding-bottom: 30px;
+    padding-right: 10px;
+    margin-right: 12px;
+    margin-bottom: 13px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_img {
+    width: 205px;
+    height: 205px;
+    margin-bottom: 0;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_title {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 80px;
+    margin-bottom: 0;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    max-width: 195px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_link {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 16px 41px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_img3 {
+    width: 243px;
+    height: 162px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_title_item {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 80px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card {
+    width: 616px;
+    height: 241px;
+    padding-top: 3px;
+    padding-left: 29px;
+    padding-bottom: 34px;
+    padding-right: 26px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .skills .skills_box .skills_boxlar .skills_card .skills_box_card_title {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 80px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card .skills_box_card_text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    max-width: 250px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card .skills_box_link {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 16px 41px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card .skills_footer_img {
+    width: 254px;
+    height: 169px;
+  }
+  .about {
+    padding-bottom: 101px;
+  }
+  .about .about_box .about_box_title {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 80px;
+    margin-bottom: 13px;
+  }
+  .about .about_box .about_box_text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    max-width: 429px;
+    margin-bottom: 10px;
+  }
+  .about .about_box .about_span .about_span_text {
+    margin-right: 62px;
+  }
+  .about .about_box .about_span .about_span_text .about_text-span {
+    font-size: 30px;
+  }
+  .about .about_box .about_span .about_span_text .about_text_text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .about .about_img {
+    width: 336px;
+    height: 336px;
+  }
+  .pricing {
+    padding-bottom: 135px;
+  }
+  .pricing .pricing_box_title {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 80px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_img {
+    width: 222px;
+    height: 222px;
+    margin-bottom: 20px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_title {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 34px;
+    margin-bottom: 14px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_text {
+    width: 300px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #8F95A5;
+  }
+  .pricing .pricing_item .pricing_list .pricing_text_t {
+    width: 300px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 54px;
+    color: #8F95A5;
+  }
+  .pricing .pricing_item .pricing_list .pricing_link .pricing_ins {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    padding-top: 7px;
+    padding-right: 24px;
+    padding-bottom: 11px;
+    padding-left: 18px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_link .pricing_ins .pricing_ins_span {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .contact {
+    padding-bottom: 178px;
+  }
+  .contact .contact_img {
+    width: 312px;
+    height: 281px;
+  }
+  .contact .contact_box .contact_title {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 80px;
+    margin-bottom: 3px;
+  }
+  .contact .contact_box .contact_text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    width: 377px;
+  }
+  .contact .contact_box .contact_input {
+    padding-top: 23px;
+    padding-left: 38px;
+    padding-bottom: 16px;
+    width: 323px;
+    height: 60px;
+  }
+  .contact .contact_box .contact_input .contact_input::-webkit-input-placeholder {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .contact .contact_box .contact_input .contact_input:-ms-input-placeholder {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .contact .contact_box .contact_input .contact_input::-ms-input-placeholder {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .contact .contact_box .contact_input .contact_input::placeholder {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .contact .contact_box .contact_button {
+    padding-top: 21px;
+    padding-bottom: 15px;
+    padding-left: 56px;
+    padding-right: 56px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .footer_box_link .footer_box {
+    padding-bottom: 24px;
+  }
+  .footer_box_link .footer_box .footer_text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+@media (max-width: 767px) {
+  .container {
+    max-width: 707px;
+  }
+  .site_header .navbar {
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    position: relative;
+  }
+  .site_header .navbar .site_header_item {
+    display: none;
+  }
+  .site_header .navbar .site_header_link_link {
+    display: none;
+  }
+  .site_header .navbar .header_label {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .site_header .navbar .header_label .header_input {
+    display: block;
+    visibility: hidden;
+  }
+  .site_header .navbar .header_label .fa-bars {
+    display: block;
+  }
+  .site_header .navbar .header_label .header_input:checked ~ .header_chek {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+  }
+  .site_header .navbar .header_label .header_chek {
+    -webkit-transition: all 1s linear;
+    transition: all 1s linear;
+    width: 200px;
+    background-color: #c2bb58f1;
+    -webkit-transform: translateX(700px);
+            transform: translateX(700px);
+    position: absolute;
+    top: 70px;
+    right: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+  }
+  .site_header .navbar .header_label .header_chek .chek_link {
+    text-decoration: none;
+    color: #000;
+    display: block;
+    margin-bottom: 15px;
+  }
+  .site_header .navbar .header_label .header_chek .header_chek_link {
+    text-decoration: none;
+    color: #000;
+    display: block;
+  }
+  .learn {
+    padding-top: 68px;
+    padding-bottom: 56px;
+  }
+  .learn .learn_box .learn_title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 45px;
+    margin-bottom: 25px;
+  }
+  .learn .learn_box .learn_box_img {
+    right: 60px;
+    top: 70px;
+  }
+  .learn .learn_box .learn_text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    max-width: 273px;
+    margin-bottom: 32px;
+    margin-top: 0;
+  }
+  .learn .learn_box .learn_link {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 19px 67px;
+  }
+  .learn .learn_img {
+    width: 352px;
+    height: 352px;
+  }
+  .skills .skills_title {
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 80px;
+    margin-bottom: 37px;
+  }
+  .skills .skills_box {
+    padding-bottom: 52px;
+  }
+  .skills .skills_box .skills_box_big {
+    width: 224px;
+    padding-top: 31px;
+    padding-left: 17px;
+    padding-right: 10px;
+    padding-bottom: 37px;
+    margin-right: 10px;
+  }
+  .skills .skills_box .skills_box_big .skills_box_img {
+    width: 214px;
+    height: 214px;
+    margin-bottom: 2px;
+  }
+  .skills .skills_box .skills_box_big .skills_box_title {
+    font-size: 20px;
+  }
+  .skills .skills_box .skills_box_big .skills_box_text {
+    width: 179px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    margin-bottom: 60px;
+  }
+  .skills .skills_box .skills_box_big .skills_box_link {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 14px 43px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list {
+    width: 227px;
+    padding-top: 14px;
+    padding-left: 16px;
+    padding-bottom: 27px;
+    padding-right: 10px;
+    margin-right: 9px;
+    margin-bottom: 10px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 0;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_title {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 80px;
+    margin-bottom: 0;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_text {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    max-width: 195px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_link {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 14px 43px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_img3 {
+    width: 216px;
+    height: 144px;
+    margin-bottom: 43px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_title_item {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 80px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card {
+    width: 462px;
+    padding-top: 0px;
+    padding-left: 21px;
+    padding-bottom: 17px;
+    padding-right: 20px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card .skills_box_card_title {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 80px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card .skills_box_card_text {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    max-width: 250px;
+    margin-bottom: 26px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card .skills_box_link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 14px 43px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card .skills_footer_img {
+    width: 202px;
+    height: 134px;
+    margin-top: 90px;
+  }
+  .about {
+    padding-bottom: 88px;
+  }
+  .about .about_box .about_box_title {
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 80px;
+    margin-bottom: 0px;
+  }
+  .about .about_box .about_box_text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    max-width: 321px;
+    margin-bottom: 0px;
+  }
+  .about .about_box .about_span .about_span_text {
+    margin-right: 53px;
+  }
+  .about .about_box .about_span .about_span_text .about_text-span {
+    font-size: 22px;
+  }
+  .about .about_box .about_span .about_span_text .about_text_text {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .about .about_img {
+    width: 295px;
+    height: 295px;
+  }
+  .pricing {
+    padding-bottom: 65px;
+  }
+  .pricing .pricing_box_title {
+    font-size: 30px;
+    line-height: 80px;
+    margin-bottom: 40px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_img {
+    width: 197px;
+    height: 197px;
+    margin-bottom: 23px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_title {
+    font-size: 20px;
+    line-height: 28px;
+    margin-bottom: 15px;
+    max-width: 162px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_text {
+    width: 200px;
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_text_t {
+    width: 200px;
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 50px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_link .pricing_ins {
+    font-size: 22px;
+    line-height: 33px;
+    padding-top: 5px;
+    padding-right: 23px;
+    padding-bottom: 7px;
+    padding-left: 12px;
+  }
+  .contact {
+    padding-bottom: 127px;
+  }
+  .contact .contact_img {
+    width: 233px;
+    height: 210px;
+  }
+  .contact .contact_box .contact_title {
+    font-size: 30px;
+    line-height: 80px;
+    margin-bottom: 0px;
+  }
+  .contact .contact_box .contact_text {
+    font-size: 14px;
+    line-height: 21px;
+    width: 390px;
+  }
+  .contact .contact_box .contact_input {
+    padding-top: 16px;
+    padding-left: 24px;
+    padding-bottom: 16px;
+    width: 283px;
+    height: 50px;
+    margin-right: 6px;
+  }
+  .contact .contact_box .contact_input .contact_input::-webkit-input-placeholder {
+    font-size: 12px;
+    line-height: 18 px;
+  }
+  .contact .contact_box .contact_input .contact_input:-ms-input-placeholder {
+    font-size: 12px;
+    line-height: 18 px;
+  }
+  .contact .contact_box .contact_input .contact_input::-ms-input-placeholder {
+    font-size: 12px;
+    line-height: 18 px;
+  }
+  .contact .contact_box .contact_input .contact_input::placeholder {
+    font-size: 12px;
+    line-height: 18 px;
+  }
+  .contact .contact_box .contact_button {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 39px;
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .footer .footer_box_link .footer_box {
+    padding-bottom: 15px;
+  }
+  .footer .footer_box_link .footer_box .footer_text {
+    font-size: 13px;
+    line-height: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+  .container {
+    max-width: 509px;
+  }
+  .learn {
+    padding-top: 50px;
+    padding-bottom: 96px;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+  }
+  .learn .learn_box {
+    text-align: center;
+  }
+  .learn .learn_box .learn_title {
+    font-size: 34px;
+    margin-bottom: 26px;
+    text-align: center;
+  }
+  .learn .learn_box .learn_box_img {
+    display: none;
+  }
+  .learn .learn_box .learn_text {
+    max-width: 483px;
+    margin: 0 auto;
+    margin-bottom: 37px;
+  }
+  .learn .learn_box .learn_link {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 19px 67px;
+  }
+  .learn .learn_img {
+    width: 424px;
+    height: 424px;
+  }
+  .skills .skills_title {
+    margin-bottom: 34px;
+  }
+  .skills .skills_box {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    padding-bottom: 84px;
+  }
+  .skills .skills_box .skills_box_big {
+    width: 240px;
+    padding-top: 31px;
+    padding-left: 17px;
+    padding-right: 10px;
+    padding-bottom: 36px;
+    margin-right: 10px;
+    margin-bottom: 34px;
+  }
+  .skills .skills_box .skills_box_big .skills_box_img {
+    width: 214px;
+    height: 214px;
+    margin-bottom: 2px;
+  }
+  .skills .skills_box .skills_box_big .skills_box_title {
+    font-size: 20px;
+  }
+  .skills .skills_box .skills_box_big .skills_box_text {
+    width: 179px;
+    font-size: 13px;
+    line-height: 20px;
+    margin-bottom: 60px;
+  }
+  .skills .skills_box .skills_box_big .skills_box_link {
+    font-size: 14px;
+    line-height: 21px;
+    padding: 14px 43px;
+  }
+  .skills .skills_box .skills_boxlar {
+    position: relative;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list {
+    width: 240px;
+    padding-top: 31px;
+    padding-left: 16px;
+    padding-bottom: 36px;
+    padding-right: 10px;
+    margin-right: 32px;
+    margin-bottom: 10px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 0;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_title {
+    font-size: 18px;
+    margin-bottom: 0;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_text {
+    max-width: 195px;
+    margin-bottom: 115px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_link {
+    font-size: 14px;
+    line-height: 21px;
+    padding: 14px 43px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_img3 {
+    width: 216px;
+    height: 144px;
+    margin-bottom: 43px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_title_item {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 80px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card {
+    width: 240px;
+    height: 534px;
+    padding-top: 0px;
+    padding-left: 21px;
+    padding-bottom: 17px;
+    padding-right: 20px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    flex-direction: column-reverse;
+    position: absolute;
+    top: -700px;
+    left: 250px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card .skills_box_card_title {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 80px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card .skills_box_card_text {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    max-width: 250px;
+    margin-bottom: 26px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card .skills_box_link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 14px 43px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card .skills_footer_img {
+    width: 202px;
+    height: 134px;
+    margin-top: 0px;
+  }
+  .about {
+    padding-bottom: 130px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+  .about .about_box .about_box_title {
+    margin-bottom: 23px;
+  }
+  .about .about_box .about_box_text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    max-width: 510px;
+    margin-bottom: 0px;
+    margin: 0 auto;
+  }
+  .about .about_box .about_span .about_span_text {
+    margin: 0 auto;
+  }
+  .about .about_box .about_span .about_span_text .about_text-span {
+    font-size: 22px;
+  }
+  .about .about_box .about_span .about_span_text .about_text_text {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .about .about_img {
+    width: 295px;
+    height: 295px;
+  }
+  .pricing {
+    padding-bottom: 163px;
+  }
+  .pricing .pricing_box_title {
+    font-size: 30px;
+    line-height: 80px;
+    margin-bottom: 40px;
+  }
+  .pricing .pricing_item {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .pricing .pricing_item .pricing_list {
+    text-align: center;
+    margin: 0 auto;
+  }
+  .pricing .pricing_item .pricing_list .pricing_img {
+    width: 291px;
+    height: 291px;
+    margin-bottom: 29px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_title {
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 23px;
+    max-width: 298px;
+    margin: 0 auto;
+  }
+  .pricing .pricing_item .pricing_list .pricing_text {
+    width: 400px;
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 31px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_text_t {
+    width: 400px;
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 31px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_link {
+    margin-bottom: 91px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_link .pricing_ins {
+    font-size: 22px;
+    line-height: 33px;
+    padding-top: 5px;
+    padding-right: 23px;
+    padding-bottom: 7px;
+    padding-left: 12px;
+  }
+  .contact {
+    padding-bottom: 144px;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .contact .contact_img {
+    width: 354px;
+    height: 322px;
+    margin: 0 auto;
+  }
+  .contact .contact_box .contact_title {
+    font-size: 30px;
+    line-height: 80px;
+    margin-bottom: 0px;
+  }
+  .contact .contact_box .contact_text {
+    font-size: 14px;
+    line-height: 21px;
+    width: 390px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 60px;
+  }
+  .contact .contact_box .contact_input {
+    padding-top: 20px;
+    padding-left: 25px;
+    padding-bottom: 20px;
+    width: 283px;
+    height: 50px;
+    margin-right: 0px;
+  }
+  .contact .contact_box .contact_input .contact_input::-webkit-input-placeholder {
+    font-size: 13px;
+    line-height: 20 px;
+  }
+  .contact .contact_box .contact_input .contact_input:-ms-input-placeholder {
+    font-size: 13px;
+    line-height: 20 px;
+  }
+  .contact .contact_box .contact_input .contact_input::-ms-input-placeholder {
+    font-size: 13px;
+    line-height: 20 px;
+  }
+  .contact .contact_box .contact_input .contact_input::placeholder {
+    font-size: 13px;
+    line-height: 20 px;
+  }
+  .contact .contact_box .contact_button {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 56px;
+    padding-right: 56px;
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .footer .footer_box_link .footer_box {
+    padding-bottom: 26px;
+  }
+  .footer .footer_box_link .footer_box .footer_text {
+    font-size: 12px;
+    line-height: 18px;
+  }
+}
+
+@media (max-width: 320px) {
+  .container {
+    max-width: 292px;
+  }
+  .learn {
+    padding-top: 50px;
+    padding-bottom: 51px;
+    text-align: center;
+  }
+  .learn .learn_box {
+    width: 100%;
+  }
+  .learn .learn_box .learn_title {
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 20px;
+    max-width: 220px;
+    margin: 0 auto;
+  }
+  .learn .learn_box .learn_text {
+    max-width: 292px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+  }
+  .learn .learn_box .learn_link {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 18px 90px;
+  }
+  .learn .learn_img {
+    width: 299px;
+    height: 299px;
+    margin-bottom: 16px;
+  }
+  .skills {
+    padding-bottom: 500px;
+  }
+  .skills .skills_title {
+    margin-bottom: 32px;
+  }
+  .skills .skills_box {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    padding-bottom: 107px;
+  }
+  .skills .skills_box .skills_box_big {
+    margin: 0 auto;
+    width: 290px;
+    padding-top: 31px;
+    padding-left: 17px;
+    padding-right: 10px;
+    padding-bottom: 36px;
+    margin-bottom: 21px;
+  }
+  .skills .skills_box .skills_box_big .skills_box_img {
+    width: 213px;
+    height: 213px;
+    margin-bottom: 10px;
+  }
+  .skills .skills_box .skills_box_big .skills_box_title {
+    font-size: 18px;
+  }
+  .skills .skills_box .skills_box_big .skills_box_text {
+    width: 179px;
+    font-size: 13px;
+    margin-bottom: 60px;
+  }
+  .skills .skills_box .skills_boxlar {
+    position: relative;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list {
+    margin: 0 auto;
+    width: 290px;
+    padding-top: 31px;
+    padding-left: 16px;
+    padding-bottom: 36px;
+    padding-right: 10px;
+    margin-right: 32px;
+    margin-bottom: 21px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_img {
+    width: 204px;
+    height: 204px;
+    margin-bottom: 0;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_title {
+    font-size: 18px;
+    margin-bottom: 0;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_text {
+    max-width: 195px;
+    margin-bottom: 115px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_link {
+    font-size: 14px;
+    line-height: 21px;
+    padding: 14px 43px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_img3 {
+    width: 216px;
+    height: 144px;
+    margin-bottom: 43px;
+  }
+  .skills .skills_box .skills_boxlar .skills_box_big_card .skills_box_big_list .skills_box_big_list_title_item {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 80px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card {
+    width: 290px;
+    height: 534px;
+    padding-top: 0px;
+    padding-left: 21px;
+    padding-bottom: 17px;
+    padding-right: 20px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    flex-direction: column-reverse;
+    position: absolute;
+    top: 1221px;
+    left: 0px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card .skills_box_card_title {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 80px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card .skills_box_card_text {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    max-width: 250px;
+    margin-bottom: 26px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card .skills_box_link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 14px 43px;
+  }
+  .skills .skills_box .skills_boxlar .skills_card .skills_footer_img {
+    width: 232px;
+    height: 154px;
+    margin-top: 0px;
+  }
+  .about {
+    padding-bottom: 84px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+  .about .about_box .about_box_title {
+    margin-bottom: 23px;
+  }
+  .about .about_box .about_box_text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    max-width: 295px;
+    margin-bottom: 0px;
+    margin: 0 auto;
+  }
+  .about .about_box .about_span {
+    display: block;
+  }
+  .about .about_box .about_span .about_span_text {
+    margin: 0 auto;
+  }
+  .about .about_box .about_span .about_span_text .about_text-span {
+    font-size: 22px;
+  }
+  .about .about_box .about_span .about_span_text .about_text_text {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .about .about_img {
+    width: 283px;
+    height: 283px;
+  }
+  .pricing {
+    padding-bottom: 79px;
+  }
+  .pricing .pricing_box_title {
+    font-size: 24px;
+    margin-bottom: 60px;
+  }
+  .pricing .pricing_item {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .pricing .pricing_item .pricing_list {
+    text-align: center;
+    margin: 0 auto;
+  }
+  .pricing .pricing_item .pricing_list .pricing_img {
+    width: 248px;
+    height: 248px;
+    margin-bottom: 28px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_title {
+    font-size: 18px;
+    margin-bottom: 17px;
+    max-width: 298px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_text {
+    width: 291px;
+    font-size: 13px;
+    line-height: 20px;
+    margin-bottom: 33px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_text_t {
+    width: 291px;
+    font-size: 13px;
+    line-height: 20px;
+    margin-bottom: 31px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_link {
+    margin-bottom: 91px;
+  }
+  .pricing .pricing_item .pricing_list .pricing_link .pricing_ins {
+    font-size: 22px;
+    line-height: 33px;
+    padding-top: 5px;
+    padding-right: 23px;
+    padding-bottom: 7px;
+    padding-left: 12px;
+  }
+  .contact {
+    padding-bottom: 57px;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .contact .contact_img {
+    width: 253px;
+    height: 228px;
+    margin: 0 auto;
+  }
+  .contact .contact_box .contact_title {
+    font-size: 24px;
+    margin-bottom: 0px;
+  }
+  .contact .contact_box .contact_text {
+    width: 284px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 60px;
+  }
+  .contact .contact_box .contact_input {
+    padding-top: 16px;
+    padding-left: 26px;
+    padding-bottom: 16px;
+    width: 291px;
+    height: 50px;
+    margin-right: 0px;
+    margin-bottom: 17px;
+  }
+  .contact .contact_box .contact_input .contact_input::-webkit-input-placeholder {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .contact .contact_box .contact_input .contact_input:-ms-input-placeholder {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .contact .contact_box .contact_input .contact_input::-ms-input-placeholder {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .contact .contact_box .contact_input .contact_input::placeholder {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .contact .contact_box .contact_button {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 110px;
+    padding-right: 110px;
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .footer .footer_box_link .footer_box {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    padding-bottom: 46px;
+  }
+  .footer .footer_box_link .footer_box .footer_text {
+    margin-top: 15px;
+    font-size: 11px;
+    line-height: 16px;
+  }
+}
+/*# sourceMappingURL=mobile.css.map */
